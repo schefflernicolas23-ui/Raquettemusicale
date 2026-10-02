@@ -24,3 +24,6 @@ Ce code n'est pas partagé. J'ai fait de nombreux traitements statistiques et pl
 
 Une video de démo est présentée dans ce github
 
+# Présentation Slides 
+
+Une présentation est disponible pour avoir un aperçu de la raquette et des résultats.
