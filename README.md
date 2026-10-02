@@ -1,4 +1,4 @@
-# Raquettemusicale
+# Raquette musicale
 Raquette connectée et sonification de geste sportif
 
 
