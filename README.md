@@ -8,7 +8,7 @@ Capteur piezo (onde de flexion de la raquette)----> détection impact, essai de 
 IMU MPU6050 6dof                               ----> caractérisation topspin, tape, amorti
 
 
-# a) CODE C++ pour la carte esp32 s3 embarquée
+# a) CODE main.cpp pour la carte esp32 s3 embarquée
 
 Le code que j'ai partagé est celui de la carte esp32 s3.  Il y a deux tâches : mesure adc très rapide pour captation précise des informations (toutes les 0.8ms) et de mesure accéléromètre (toutes les 3 ms) + envoi udp wifi si un impact est détecté.
 
@@ -23,6 +23,6 @@ Ce code n'est pas partagé. J'ai fait de nombreux traitements statistiques et pl
 
 Une video de démo est présentée dans ce github
 
-# c) Présentation Slides 
+# c) Présentation Slides .pdf
 
 Une présentation est disponible pour avoir un aperçu de la raquette et des résultats.
